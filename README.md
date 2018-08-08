@@ -3,6 +3,7 @@
 ##### HTML5
 
 - [Introduction to HTML](https://websitesetup.org/html-tutorial-beginners/)
+- [Detailed HTML/CSS tutorial](https://learn.shayhowe.com/html-css/building-your-first-web-page/)
 - [HTML5 Semantic](https://www.semrush.com/blog/semantic-html5-guide/)
 - [Structuring HTML content](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Structuring_a_page_of_content)
 - https://css-tricks.com/what-beautiful-html-code-looks-like/
@@ -19,5 +20,6 @@
 
 ##### Javascript
 
-
+- [Eloquent Javascript 2nd Edition](https://eloquentjavascript.net/2nd_edition/)
+- [Javascript 101](https://hsablonniere.github.io/markleft/prezas/javascript-101.html#1.0)
 
